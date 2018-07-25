@@ -1,0 +1,481 @@
+{
+    "_id": {
+        "$oid": "564df067668017d17e11efcd"
+    },
+    "name": "Julskinka",
+    "category": "skinka",
+    "info": "Julen är matresternas tid, och få saker är lika magiska som att krypa upp i soffan med julklappsboken och en skiva julvört med en tjock bit julskinka och ett tunt lager söt senap på.",
+    "srcName": "Vardagsmatad",
+    "src": "http://www.vardagsmatad.se/2011/12/08/var-godaste-julskinka/",
+    "ingredients": "4 dl vetegluten\n0,5 dl sojamjöl\n200 gram tofu\n2,5 dl vatten\n2 msk tomatpuré\n1 tsk\t grovmalen svartpeppar\n1 tsk vitlökspulver\n1 tsk lökpulver\n1 tsk rökarom\n1 tsk salt\n1 tsk paprika\n1 msk grönsaksfond\n1 msk olja\n1 msk ljus sirap alt. agavenektar\n\n<b>Buljong:</b>\n1 st tärning grönsaksbuljong\n1 msk grönsaksfond\n7 dl vatten\n1 tsk\t grovmalen svartpeppar\n1 dl tomatjuice eller passerade tomater\n1/2 tsk rökarom",
+    "text": "Blanda vetegluten och sojamjöl för sig i en bunke. De övriga ingredienserna placerar du i en mixer eller hushållsmaskin. Mixa ingredienserna tills du får en jämn fin smet, och tofun upplösts helt. Blanda ner de blöta ingredienserna i veteglutenet och rör om hastigt med en gaffel tills allt är väl blandat.\n\nKnåda degen i 5 minuter eller tills den blivit fast och fin och lite gummiaktig. Låt degen sedan vila i 15 minuter. Blanda under tiden ingredienserna till buljongen i en hög kastrull som kan täcka skinkan.\n\nLinda in degen i en silduk – eller annan textil som du kan koka skinka i – och knyt åt sidorna som en stor smällkaramell. Koka upp bjuljongen och sänk försiktigt ned knytet i kastrullen. Låt skinkan sjuda i 2 timmar. Vattnet skall vara så varm att det ångar men inte så att det kokar kraftigt. Du känner att skinkan fått en ordentlig fasthet när den är klar.\n\nLyft sedan upp skinkan och låt den svalna ordentligt. Nu kan skinkan skivas upp som pålägg, användas i matlagning eller griljeras med söt senap och ströbröd. Tänk på att gluten blir fastare ju längre du tillagar det. Så stek eller ugnsgrilla på hög värme under kortare tid istället för tvärt om. Smaklig måltid!",
+    "image": "julskinka.jpg",
+    "slug": "julskinka",
+    "photographer": "Vardagsmatad",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "564df167668017d17e11efce"
+    },
+    "name": "Revbensspjäll med coleslaw",
+    "category": "revbensspjäll",
+    "info": "Lika goda varma som kalla och underbart oljiga och salta! De här spjällen är garanterat fria från alla sorters ben,",
+    "srcName": "Vardagsmatad",
+    "src": "http://www.vardagsmatad.se/2011/04/01/revbensspjall-med-coleslaw/",
+    "ingredients": "125 g sojafiléer (Goodsoy)\n0,75 dl rapsolja\n0,5 dl ljus sojasås\n1 tsk\t ingefära\n0,5 tsk sesamolja\n2 klyftor vitlök\n0,5 dl barbequesås\n2 msk koncentrat apelsinjuice\n\n<b>coleslaw:</b>\n1,5 dl vegansk majonnäs\n3 dl riven vitkål\n2 dl\triven morot\n1 nypa svartpeppar",
+    "text": "Koka upp sojaproteinet tills det svällt upp och är mjukt rakt igenom. Låt sojafiléerna svalna innan du pressar ur så mycket vatten du bara kan ur dem. Blanda sedan till marinaden av olja, sojasås, ingefära och sesamolja. Pressa eller riv ned vitlöken i marinaden.\n\nLåt sojafiléerna marinera i minst 30 minuter. Under tiden river du morötter och vitkål. Vänd ned i majonäsen och krydda med svartpeppar efter smak.\n\nLägg ut de marinerade sojafiléerna på bakplåtspapper på en plåt. Låt tillagas i 225 grader i 40 minuter (vi använder gasugn och som Victoria skriver i kommentarerna kan det vara bra att tillaga på lägre grad om du har elugn). Vänd på filéerna efter halva tiden. När filéerna inte längre är blöta utan krispiga till ytan penslar du ovansidan med en blandning av apelsinjuice och barbequesås. Låt grillas i ugnen i ca 10 minuter och pensla andra sidan. Låt dem grillas 10 minuter till och låt sedan revbensspjällen svalna i 10 minuter.\n\nServera och ät direkt eller låt dem svalna helt innan du förvarar dem i tillsluten förpackning i kylen för framtida njutning.",
+    "image": "revbensspjll-med-coleslaw.jpg",
+    "slug": "revbensspjll-med-coleslaw",
+    "photographer": "",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "564df216668017d17e11efcf"
+    },
+    "name": "Seitanspjäll med smak av äpple och kanel",
+    "category": "revbensspjäll",
+    "info": "Kanelstänger att hålla i och en söt men het glaze med smak av äpple ger dessa revbensspjäll en given plats på julbordet!",
+    "srcName": "Vardagsmatad",
+    "src": "http://www.vardagsmatad.se/2011/11/29/seitanspjall-med-smak-av-apple-och-kanel/",
+    "ingredients": "2,5 dl vetegluten\n1 msk paprikapulver\n2 tsk lökpulver\n1 st vitlöksklyfta\n2,5 dl vatten\n2 msk jordnötssmör (slät)\n2 msk ljus sojasås\n10 st långa kanelstänger\n\n<b>Äppelglaze:</b>\n1 dl\täpplemos\n0,5 dl ljus sojasås\n1 msk mörk sojasås\n1/5 dl ketchup\n2 st\tvitlöksklyftor\n1 tsk fänkålsfrö\n3 msk ljus sirap\n1 nypa chiliflakes\n1/2 tsk rökarom",
+    "text": "Blanda vetegluten, paprika- och lökpulver i en skål. Pressa vitlöken och rör ut med vatten, sojasås och jordnötsmör separat. Rör sedan ned de blöta ingredienserna i veteglutenet hastigt med en gaffel.\n\nDegen skall inte vara för vattning men inte heller kladdig så att den fastnar på fingrarna. Knåda degen i minst 5 minuter så att glutenet binder och degen börjar bli gummilik och fast. Låt degen vila i 15 minuter.\n\nDela upp degen i två delar. Använd fingrarna eller en kavel för att platta ut dessa så mycket du kan. Placera ut kanelstängerna med jämna mellanrum på den ena plattan och lägg över den andra. Låt kanelstången sticka ut en liten bit. Knåda in kanelstängerna så att glutendegen håller dem fast.\n\nOlja en ugnsform och sätt på ugnen på 175 grader. Stek seitanspjällen i ugnen i 25 minuter. Blanda under tiden samman äppelmos, soja, rökarom och ketchup i en skål. Stöt fänkålsfrön i en mortel och tillsätt tillsammans med sirap, vitlök och chili efter smak.\n\nLåt seitanspjällen svalna en aning. Pensla sedan ordentligt med äppleglaze och grilla på hög värme tills spjällen fått en karamelliserad, krispig och fin yta. Pensla gärna på mer glaze när du vänder spjällen. Det går lika bra att grilla på en bordsgrill som att grilla på en kolgrill eller direkt på gallret i en ugn.",
+    "image": "seitanspjll-med-smak-av-pple-och-kanel.jpg",
+    "slug": "seitanspjll-med-smak-av-pple-och-kanel",
+    "photographer": "Vardagsmatad",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "564df351668017d17e11efd0"
+    },
+    "name": "Skagensill",
+    "category": "sill",
+    "info": "Vad är ett julbord utan skagensill? Detta recept låter aubergine vara stjärnan, så kan fiskarna få ägna sig åt trevligare saker.",
+    "srcName": "Veganvintage",
+    "src": "https://veganvintage.wordpress.com/vegansk-mat/festmat-och-hogtider/",
+    "ingredients": "1 aubergine\n1 dl majonnäs\n2 dl gräddfil\n1 msk senap\n1 tsk vit sirap\n½ hackad rödlök\n2 msk dill, finklippt\n1 burk tångrom (1/2 av varje färg)\nsalt efter smak",
+    "text": "Skala, skiva och koka auberginen i saltat vatten i 5-7 minuter. Lägg därefter in auberginene i en lag av 5 dl vatten, 1 dl 12 % ättika och 1 msk salt. Låt den ligga i ett dygn. Har du bråttom kan du skippa detta steg men jag tycker att denna klassiska sillinläggninen ger auberginen den smak som behövs jämfört med att stoppa den i skagenröran på direkten. Blanda ingredienserna till skagenröran och lägg därefter i sillen.",
+    "image": "skagensill.jpg",
+    "slug": "skagensill",
+    "photographer": "Veganvintage",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "564e303d668017d17e11efd1"
+    },
+    "name": "Skärgårdssill utan sill",
+    "category": "sill",
+    "info": "Sill utan sill, med smak av skärgården! Kan det bli mycket bättre än så?",
+    "srcName": "Veganvrak",
+    "src": "http://veganvrak.blogspot.se/2008/12/skrgrdssill-utan-sill.html",
+    "ingredients": "1 aubergine\n2 msk finhackad rödlök\n1,5 dl sojayoghurt\n0,5 dl vegansk majonnäs\n2 tsk pressad citron\n2 msk svart tångkaviar\n1 msk finhackad dill\nnågra droppar liquid smoke\nsalt, nymalen svartpeppar",
+    "text": "Skär auberginen i sillstora bitar. Koka dem mjuka och sladdriga i saltat vatten några minuter. Blanda sojayoghurt och majonnäs. Rör ner lök, tångkaviar och dill och blanda ingredienserna. Häll av vattnet från auberginebitarna och blanda ner dem. Smaka av med lite liquid smoke, pressad citron, salt och svartpeppar.",
+    "image": "skrgrdssill-utan-sill.jpg",
+    "slug": "skrgrdssill-utan-sill",
+    "photographer": "David Hallberg Jönsson",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "564e30e5668017d17e11efd2"
+    },
+    "name": "Janssons frestelse",
+    "category": "janssons",
+    "info": "Ett måste på julbordet! Gröna oliver och kapris ger en fantastisk sälta för ett perfekt resultat.",
+    "srcName": "Veganvrak",
+    "src": "http://veganvrak.blogspot.se/2008/11/janssons-frestelse.html",
+    "ingredients": "ca 1 kg mjölig potatis\n2 gula lökar\n1,5 dl kapris\n1,5 dl gröna oliver, gärna med kärna\n2,5 dl havregrädde (1 pkt)\n1,5 dl sojamjölk\n1 msk spad från kaprisen\n1 krm malen kryddpeppar\nsalt\n2 msk ströbröd\nflytande mjölkfritt margarin",
+    "text": "Sätt ugnen på 200 grader. Skala potatisen och skär den i tunna strimlor (använd gärna mandolin om du har det). Lägg den i en bunke med vatten medan du förbereder det andra så att inte potatisen blir brun. Strimla lökarna fint. Kärna ur oliverna och skär dem i mindre bitar. Blanda oliver och kapris.\nLägg hälften av potatisen i en smord ugnsfast form. Fördela olivröran över potatisen och lägg på resten av potatisen. Blanda havregrädde, sojamjölk, kaprisspad och kryddpeppar. Smaka av med salt. Häll blandningen över potatisen och strö över ströbröd. Ringla över flytande margarin och ställ frestelsen i nedre delen av ugnen. Grädda 45-60 minuter.",
+    "image": "janssons-frestelse.jpg",
+    "slug": "janssons-frestelse",
+    "photographer": "",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "564e318a668017d17e11efd3"
+    },
+    "name": "Knäck",
+    "category": "godis",
+    "info": "Havregrädde fungerar precis lika bra som kogrädde till knäck! Gillar du inte mandlar, hoppa bara över dem eller byt ut dem mot någon nöt du föredrar.",
+    "srcName": "Veganvrak",
+    "src": "http://veganvrak.blogspot.se/2008/12/knck.html",
+    "ingredients": "1 dl ljus sirap\n1 dl strösocker\n1 dl havregrädde\n1 msk mjölkfritt margarin\nev. 1 dl hackad mandel",
+    "text": "Blanda sirap, socker och havregrädde och koka kraftigt i ca 20 minuter. Gör ett kulprov för att kolla om knäcken är klar. Häll kallt vatten i en liten skål och doppa i lite knäcksmet. Om du kan forma till en kula så är smeten klar. Annars får du låta den koka längre och försöka igen. När smeten är färdig blandar du i margarin och hackad mandel och häller sedan upp i knäckformar.",
+    "image": "knck.jpg",
+    "slug": "knck",
+    "photographer": "David Hallberg Jönsson",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "564e32ca668017d17e11efd4"
+    },
+    "name": "Strömming",
+    "category": "fisk",
+    "info": "Låt fiskarna stanna kvar i vattnet och låt aubergine ta platsen istället! Det är både godare och snällare.",
+    "srcName": "TrevorS [PDF]",
+    "src": "http://uploads.ifokus.se/uploads/63c/63cab27ae5036b7fe400ee534562ce6f/fiskspecial-for-veganifokusse.pdf",
+    "ingredients": "600 g aubergine\n\n<b>Marinad:</b>\n2 dl sojagrädde\n1 msk senap\n1 msk senapspulver\n1 tsk salt\n\n<b>Stekning:</b>\ngrovt rågmjöl\nsalt",
+    "text": "Blanda ihop havregrädden, senap, senapspulver och salt. Skiva auberginen och ta bort skalet, lägg ner den i marinaden så de täcks helt. (tillsätt lite mer sojagrädde om det behövs). Låt stå kallt i ett dygn.\nTa fram auberginefiléerna och vänd de i rågmjöl och stek på medeltemperatur i mjölkfritt margarin.\nServeras med potatis, ärter, dill, citronskiva.\nTIPS! Marinaden som blir över kan man koka upp med lite potatismjöl så har man engod sås till.",
+    "image": "strmming.jpg",
+    "slug": "strmming",
+    "photographer": "David Hallberg Jönsson",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "564e3355668017d17e11efd5"
+    },
+    "name": "Gravad lax",
+    "category": "fisk",
+    "info": "Om all aubergine har gått åt till andra fiskrecept går det att använda zucchini, men det blir inte lika fiskigt.",
+    "srcName": "TrevorS",
+    "src": "http://vegan.ifokus.se/discussions/543264da8e0e746cee00092b-vegansk-gravad-lax#0",
+    "ingredients": "1 stor aubergine\n2 knippen dill\n4 msk socker\n3 msk salt\n1 krm vitpeppar",
+    "text": "Blanda socker, salt och vitpeppar. Skala auberginen och dela den på längden, gnid in dem med kryddblandningen och lägg dem på dillen i en form. Låt dem stå i cirka 90 minuter i rumstemperatur. Lägg dem sedan i en plastpåse och sug ut luften i (andas inte in för du vill inte få kryddorna i dig). Låt dem sedan ligga i kylen under natten max 3 dygn, skär upp i tunna skivor då den ska serveras.",
+    "image": "gravad-lax.jpg",
+    "slug": "gravad-lax",
+    "photographer": "David Hallberg Jönsson",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "564e33e8668017d17e11efd6"
+    },
+    "name": "Griljerad kålrot",
+    "category": "skinka",
+    "info": "Varför nöja sig med tråkig grisrumpa när en kan låta en vacker gyllene kålrot trona på julbordet?",
+    "srcName": "Veganrecept & Galna Upptåg",
+    "src": "http://veganen.blogspot.se/2010/12/griljerad-kalrot-gul-skinka.html",
+    "ingredients": "kålrot (på ca 800 g)\n2&nbsp;grönsaksbuljongstärning\n1 tsk salt\n\n<b>Griljering:</b>\n1/2 dl senap (din favorit)\n1 tsk potatismjöl\n3 msk vatten\nströbröd",
+    "text": "Skala kålroten. Koka upp vatten tillsammans med saltet och buljongen, sänk försiktigt ned kålroten och koka den i cirka 90 minuter. Den ska vara något hårdare än potatis. Ta upp och låt vila i 20 minuter på en tallrik, värm under tiden upp ugnen till 225°C.\n\nLägg kålroten i en ungsfast form. Blanda ihop senapen, vatten, potatismjöl och pensla kålroten med ett tunt lager, strö över ströbröd. Grädda tills griljeringen fått en fin färg, 20-25 minuter. Låt svalna helt innan du skär upp den.",
+    "image": "griljerad-klrot.jpg",
+    "slug": "griljerad-klrot",
+    "photographer": "Veganrecept & Galna Upptåg",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "564e358d668017d17e11efd7"
+    },
+    "name": "Fudge",
+    "category": "godis",
+    "info": "Vem saknar inte fudge som julgodis? Det går precis lika bra att göra på havregrädde som på kogrädde!",
+    "srcName": "Veganrecept & Galna Upptåg",
+    "src": "http://veganen.blogspot.se/2010/12/fudge.html",
+    "ingredients": "2 dl Oatly iMat (havregrädde, båda sorter fungerar)\n3 dl strösocker\n4 msk mjölkfritt margarin (½ dl)\n1 msk kakao\neventuellt hackade naturella nötter\n",
+    "text": "Vispa ihop havregrädde och socker, klicka ner margarinet och låt koka upp utan omrörning. Sänk till medelvärme och tillsätt kakao och rör runt då och då i 10-15 minuter (ta tiden efter det kokat upp) Gör kultest genom att doppa lite smet i kallt vatten, stelar det är det klart. Vispa som en galning i 20 sekunder och häll upp blandningen i en bakplåtspappersklädd plåt och låt svalna. Förvaras i kylen.",
+    "image": "fudge.jpg",
+    "slug": "fudge",
+    "photographer": "Veganrecept & Galna Upptåg",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "564e36a3668017d17e11efd8"
+    },
+    "name": "Hannas vörtbröd",
+    "category": "bakat",
+    "info": "Detta recept går att variera i det oändliga genom olika kombinationer av vätska och mjöl! Är du sugen på ett tungt med rågmjöl och porter eller ett lättare med grahamsmjöl och svagdricka?",
+    "srcName": "Vegankrubb",
+    "src": "http://www.vegankrubb.se/hannas-vortbrod-vegansk-jul-lucka-19/",
+    "ingredients": "3 dl krossad råg eller korn\n1 dl linfrö\n3 dl kokande vatten\n25 g margarin\n3 dl porter / svagdricka / julmust / julöl\n10 g jäst\n1 dl mörk brödsirap\n1 påse vörtmix\n1 dl russin\nca 10 dl mjöl.",
+    "text": "Lägg rågkrosset och frön i en bunke och slå över det heta vattnet, rör om, täck med plastfolie och låt stå framme i rumstemperatur i 12 - 24 timmar.\n\nSmält margarinet, smula jästen i en bunke och rör ut det med lite av vätskan. Tillsätt resten av vätskan, det skållade, vört, sirap, russin och det mesta av mjölet eller mer om det verkar behövas. Degen ska vara fast och mår bra av att arbetas kraftigt antingen för hand eller i maskin.\nTäck med duk och låt degen jäsa i 3-4 h (har du ont om tid så öka mängden jäst och jäs lite kortare tid). Tag sedan upp degen och knåda lätt innan du bakar ut den antingen som två limpor eller i formar.\nLägg på plåt och jäs täckta i ytterligare 1-2 h. Grädda på 200 grader långt ner i ugnen i ca 30 min. Låt svalna på galler under duk.",
+    "image": "hannas-vrtbrd.jpg",
+    "slug": "hannas-vrtbrd",
+    "photographer": "Vegankrubb",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "564e376a668017d17e11efd9"
+    },
+    "name": "Tant Harriets veganska pepparkakor",
+    "category": "bakat",
+    "info": "Se måttangivelserna på kryddorna som en guide och prova dig fram till din egen perfekta kryddblandning!",
+    "srcName": "Vegankrubb",
+    "src": "http://www.vegankrubb.se/tant-harriets-veganska-pepparkakor-vegansk-jul-10-dec/",
+    "ingredients": "300 g mjölkfritt margarin\n5 dl socker\n1 dl sirap, ljus eller mörk\n2 msk malen ingefära\n3 msk malen kanel\n2 msk malda kryddnejlikor\n4 tsk stött eller mald kardemumma\n1 msk bikarbonat\n2 dl vatten\n1 ½ l (900 g) vetemjöl",
+    "text": "Rör rumsvarmt fett, socker och sirap smidigt. Blanda i kryddorna och bikarbonat och tillsätt sedan vattnet och det mesta av mjölet och knåda ihop till en fast deg. Det går bra att göra degen i matberedare men då får bara en halv sats åt gången plats. Tillsätt då allt från början, margarinet kallt och skuret i kuber, också nu sparar du en del av mjölet för att knåda in vid utbakningen.\n\nLåt degen vila övertäckt i kylskåp i minst 1 dygn.\n\nNär det är dags att baka ut degen delar du den i mindre bitar och kavlar ut den mycket tunt, nästan så tunt det bara går. Mjöla kavel och bakbord och vänd degen ett par gånger. Ta ut kakor med mått och lägg på plåt med bakplåtspapper. Grädda i mitten av ugnen i ca 200 grader i 4-5 minuter.",
+    "image": "tant-harriets-veganska-pepparkakor.jpg",
+    "slug": "tant-harriets-veganska-pepparkakor",
+    "photographer": "Vegankrubb",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "564e3842668017d17e11efda"
+    },
+    "name": "Ugnskokt citronspäckad l*x",
+    "category": "fisk",
+    "info": "Vegansk lax går att hitta i asiatiska livsmedelsbutiker och passar utmärkt i recept som detta!",
+    "srcName": "Vegankrubb",
+    "src": "http://www.vegankrubb.se/ugnskokt-citronspackad-lx/",
+    "ingredients": "vegansk lax\ncitron\nrödlök\ndill",
+    "text": "Skär toppsnitt i \"laxen\" och späcka med varannan citronklyfta och varannan rödlöksring. Lägg i lite dill för att sällskapa.\n\nLägg laxen i en ugnssäker liten form som jag ställde i en större form. Fyll den större formen hälften med vatten och sätt sedan in i ugnen på 200°. Grädda tills \"laxen\" är ugnskokt och saftig.",
+    "image": "ugnskokt-citronspckad-lx.jpg",
+    "slug": "ugnskokt-citronspckad-lx",
+    "photographer": "Vegankrubb",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "564e3918668017d17e11efdb"
+    },
+    "name": "Köttbullar",
+    "category": "köttbullar",
+    "info": "Hemrullat är godast! Du kommer aldrig vilja köpa färdiga mer efter att ha testat det här receptet.",
+    "srcName": "Vegankrubb",
+    "src": "http://www.vegankrubb.se/bullar-med-sting-vegansk-jul-lucka-18/",
+    "ingredients": "8 dl sojafärs\n1 stor eller 2 små gula lökar\n3 dl blötlagd bovete\n3 msk buljong\nsalt\nsvartpeppar\nvitpeppar\nkryddpeppar\nlite sötstark senap",
+    "text": "Lägg den torra färsen i en bunke, slå över vatten så att allt blir blött men inte mer. Låt stå en stund och häll på mer vatten om det känns som färsen inte blir mjuk.\nSkala och hacka löken fint, stek på låg värme så att den blir mjuk och gyllende. Kör hälften av färsen tillsammans med bovetet i matberedare eller med mixerstav. Nu får du en fast hållbar färs.\nBlanda med resten av färsen och löken och smaksätt med buljong, salt och tre sorters peppar samt senap eller just de kryddor du tycker ger dina bullar smak av jul. Låt färsen stå kallt och sätta sig en stund innan du rullar bollar och steker på ganska hög värme så att de får en fin yta.",
+    "image": "kttbullar.jpg",
+    "slug": "kttbullar",
+    "photographer": "Vegankrubb",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "564e425a668017d17e11efdc"
+    },
+    "name": "Lutlök",
+    "category": "fisk",
+    "info": "Det här receptet innehåller varken lut eller fisk, men det blir precis lika bra ändå!",
+    "srcName": "Svenska vegetariska föreningen",
+    "src": "http://www.vegetarian.se/Julrecept.htm#Lutl%F6k%20med%20tillbeh%F6r",
+    "ingredients": "3 st långa purjolökar\nbuljong",
+    "text": "Ansa och öppna purjon på en sida. Skölj noga. Skär i 12-15 cm långa bitar. Koka dem knappt mjuka i svag buljong. Serveras varma tillsammans med  vit sås och gröna ärtor.",
+    "image": "lutlk.jpg",
+    "slug": "lutlk",
+    "photographer": "David Hallberg Jönsson",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "564e4e87668017d17e11efdd"
+    },
+    "name": "Bovetesylta",
+    "category": "sylta",
+    "info": "Bovete är faktiskt inget sädesslag, även om det är lätt att tro det. Det är istället nära släkt med rabarber, och passar utmärkt att göra sylta på!",
+    "srcName": "Grön festmat",
+    "src": "http://www.tasteline.com/Recept/bovetesylta",
+    "ingredients": "2 tsk kryddpeppar, mald\n2 tsk mejram\n2 st lagerblad\n2 st vitlöksklyftor\n2 msk grönsaksbuljongsextrakt\n11 dl vatten\n4 dl bovetemjöl",
+    "text": "Skölj bovete, finhacka vitlök och fukta lagerblad. Koka upp vatten och buljong. Tillsätt lagerblad, bovete och vitlök. Låt koka på svag värme cirka 20 minuter. Krydda efter smak. Fiska upp lagerbladen. Häll massan i kalla sköljda formar. Ställ dem att svalna. Syltan kan förvaras i kyl i flera dagar. Servera gärna mjölksyrade rödbetor till.",
+    "image": "bovetesylta.jpg",
+    "slug": "bovetesylta",
+    "photographer": "David Hallberg Jönsson",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "5650bfa4668017d17e11efde"
+    },
+    "name": "Senapssill på aubergine",
+    "category": "sill",
+    "info": "Senapssill är av förståeliga skäl en riktig klassiker på julbordet, och att byta ut sillen mot aubergine gör det bara bättre!",
+    "srcName": "Jävligt gott",
+    "src": "http://www.javligtgott.se/senapssill-pa-aubergine/",
+    "ingredients": "1 stor aubergine\n1 rödlök\n\n<b>Lagen:</b>\n2,5 dl vatten\n1 dl ättiksprit (12 %)\n1,5 dl socker\n5 grovt krossade kryddpepparkorn\n2 lagerblad\n5 kryddnejlikor\n\n<b>Senapssåsen:</b>\n1 dl rapsolja\n3 msk skånsk senap\n2 msk socker\n2 msk rödvinsvinäger (vitvinsvinäger fungerar också!)\n1 dl hackad dill\nvitpeppar\nsalt",
+    "text": "Dagen innan: Skär auberginen i ca 0,5 cm tjocka skivor. Salta och låt dra i några minuter så att bäskan drar ur. Skölj bort saltet och skär skivorna i ”sillstorlek”, ca 3,5 x 1,5 cm. Koka bitarna i vatten i någon minut så att de blir mjuka. Akta så de inte kokar för mycket och ramlar sönder. Du vill bara att de precis ska börja mjukna. Lägg åt sidan.\n\nFör att göra lagen så blandar du ihop alla ingrediernserna och kokar upp på spisen. Så fort det kokat och sockret löst upp sig i lagen tar du av den från spisen och låter svalna. Hacka eller skiva löken fint och blanda löken och auberginen i en stor skål och häll över lagen. Låt stå i kylskåpet över natten.\n\nDagen då det ska ätas: Fixa senapssåsen. Blanda alla ingredienser till såsen förutom dill och rapsolja i en skål. Häll sakta ner oljan under kraftig vispning tills såsen blir tjock och fin. Det är viktigt att alla ingredienser har samma temperatur, så ta ut dem ur kylskåpen någon timme innan. Blanda ner dillen och smaka av med salt och peppar. Ta ut auberginen ur kylskåpet och häll av lagen ifrån löken och auberginen. Blanda ner senapssåsen i grönsakerna och låt stå i kylskåp en timme innan servering.",
+    "image": "senapssill-p-aubergine.jpg",
+    "slug": "senapssill-p-aubergine",
+    "photographer": "Jävligt gott",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "5650c08c668017d17e11efdf"
+    },
+    "name": "Köttbullar i gräddsås",
+    "category": "köttbullar",
+    "info": "Inte bara är de här \"köttbullarna\" fantastiskt goda, de serveras dessutom i en underbar gräddsås som tar rätten till nästa nivå!",
+    "srcName": "Jävligt gott",
+    "src": "http://www.javligtgott.se/veganska-kottbullar-samarbete-med-oatly-och-veganska-varldsdagen/",
+    "ingredients": "<b>Köttbullarna:</b>\n325 g vegofärs\n1,5 dl ströbröd\n1,5 msk potatismjöl\n2 dl havregrädde\n½ – 1 dl vatten\n1 gul lök\n1,5 msk god grönsaksfond\n1 msk kinesisk soja\n10-12 korn kryddpeppar mortlade\nmjölkfritt smör att steka i (mycket)\nsalt och svartpeppar\n\n<b>Gräddsås:</b>\n3 dl Oatly havregrädde\n1,5 msk grönsaksfond\n1 msk vegansk svartvinbärsgele (med pektin ist. för gelatin)\n1 msk kinesisk soja\nSalt och svartpeppar",
+    "text": "Hacka löken fint och stek mjuk i smör. Ha i färsen och kryddpepparen och låt steka med i några minuter så den får lite färg. Blanda 1 dl havregrädde, soja och fond i en skål och häll ner i färsen. Låt steka med i några minuter och spä med lite vatten om den blir torr för fort. När färsen har kokat ner i någon minut och alla smaker blandat tar du stekpannan åt sidan.\nBlanda ströbröd, potatismjöl och 1 dl havregrädde i en bunke och låt dra i 30 sekunder. Ha därefter ner färsen i ströbrödet och rör om rejält så att allt blandas. Smaka av med salt och peppar och kryddpeppar om det behövs. Bullarna kommer att få ungefär samma smak som färsen, så nu kan du justera om du vill ha den starkare. Om färsen är för torr och hård så ha i lite mer grädde. Är den för blöt, ha i lite mer ströbröd. Smeten ska vara lätt att forma till bollar men inte så torr så att den känns otrevlig.\nHandrulla bullar , ca 2,5 cm i diameter. Stek dem först på ganska hög värme i ca 5-10 minuter i mycket smör och låt dem därefter stå några minuter till på låg värme. Häll därefter ner alla ingredienser till gräddsåsen i stekpannan och låt koka ihop tillsammans med köttbullarna i tre minuter. Smaka av med salt och peppar. Klart!",
+    "image": "kttbullar-i-grddss.jpg",
+    "slug": "kttbullar-i-grddss",
+    "photographer": "Jävligt gott",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "5650c2b5668017d17e11efe0"
+    },
+    "name": "Seitanspjäll",
+    "category": "revbensspjäll",
+    "info": "Revbensspjäll hör till på julen, och vem vill äta skelett när dessa fantastiska seitanbaserade spjäll finns?",
+    "srcName": "Vegania",
+    "src": "http://www.vegania.net/recept/jul.html#seitanspjall",
+    "ingredients": "2 ½ dl glutenmjöl\n3/4 dl jordnötter\n1 ½ dl kokta bönor (ej svarta eller soja) \n2 dl vatten\n2 msk olja\n1 msk soja\n1 vitlöksklyfta\n1 msk tomatpuré\n½ tsk buljongpulver\n½ tsk salt\n3/4 krm svartpeppar\n½ msk paprikapulver\n1 tsk lökpulver (kan uteslutas) \n\n<b>Glasyr:</b>\n 1 msk chipotlepasta i sås\n1 msk ljus sojasås\n2 tsk sirap\n3 msk olja\n½ msk tomatpuré",
+    "text": "Rosta jordnötterna lätt. Hetta upp oljan och fräs vitlök och paprikapulver på låg värme någon minut, rör ner tomatpurén.\nMixa ihop allt utom glutenmjölet till en slät sås. Rör ner glutenmjölet och knåda ihop en stund. Ta upp på bakbord och knåda ut till en platta som är knappt 1 cm tjock och 13 cm bred. Låt vila en kvart medan ugnen värms upp till 175 grader. \nMixa ihop glasyren till en slät pasta. \nOm seitanet dragit ihop sig så platta ut det lite till. Skär sedan i längder med 1,5 cm:s bredd. Olja eller smöra ett bakpapper och lägg på en plåt. Lägg över seitanlängderna med lite mellanrum. Smält en stor klicka mjölkfritt margarin och pensla seitanet med (det går också bra att pensla på flytande margarin). Baka i 15 minuter, ta sedan ut och vänd bitarna. Pensla ovansidan med glasyren och grädda drygt 10 minuter till. Ta ut seitanen, höj ugnen till grillövervärme och pensla andra sidan av spjällen med resterande glasyr. Grilla på cirka 5 minuter. Klart! ",
+    "image": "seitanspjll.jpg",
+    "slug": "seitanspjll",
+    "photographer": "Vegania",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "5650c331668017d17e11efe1"
+    },
+    "name": "Fiskvännens frestelse",
+    "category": "janssons",
+    "info": "Att tartex är gott på smörgås vet förmodligen varenda vegan, men lika många kanske inte har koll på att det passar perfekt i gratäng!",
+    "srcName": "Vegania",
+    "src": "http://www.vegania.net/recept/jul.html#frestelse",
+    "ingredients": "1 ½ liter strimlad rå potatis\n1 lök, hackad\n3 dl vatten eller sojagrädde\n1&nbsp;grönsaksbuljongtärning\n100 g tartex eller annan vegetarisk pastej\n1 dl hackade svarta oliver\nEv 3 msk finhackad kapris\n¾ dl ströbröd",
+    "text": "Blanda strimlad potatis, hackad lök och 1 ½ tsk salt. Lägg drygt hälften i en smord ugnsform. Strö på hackade oliver och kapris, och lägg därefter på resten av potatisen. Värm upp vattnet eller sojagrädden och lös upp buljongen och tartexen. Häll såsen över potatisen och strö på ströbrödet. Grädda i ugnen en timme i 225 grader. Täck med folie efter 40 minuter så att gratängen inte bränns.",
+    "image": "fiskvnnens-frestelse.jpg",
+    "slug": "fiskvnnens-frestelse",
+    "photographer": "Vegania",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "5650c3fe668017d17e11efe2"
+    },
+    "name": "Apelsin- & chokladbollar",
+    "category": "godis",
+    "info": "En twist på vanliga chokladbollar som med sin apelsinsmak passar pefekt efter (eller före!) julbordet!",
+    "srcName": "Vegania",
+    "src": "http://www.vegania.net/recept/jul.html#apch",
+    "ingredients": "100 g veg margarin\n3 dl havregryn\n1 dl socker\n2 msk kakao\n1 tsk vaniljsocker\nrivet skal från ½ vältvättad apelsin 2 msk apelsinjuice\n100 g vegansk choklad (gärna med apelsinsmak) eller kokos",
+    "text": "Blanda alla torra ingredienser och gnid in margarinet med fingrarna, eller använd elvisp. Tillsätt apelsinskal och juice. Ställ kallt en stund och rulla sen till bollar. Ställ i kyl att stelna till. Smält vegansk mörk choklad över vattenbad eller i mikron.\nDoppa/rulla bollarna i chokladen, lägg på en tallrik med smörpapper och låt stelna. Strö gärna på några strimlor apelsinskal innan chokladen smält. Istället för att doppa bollarna i choklad kan de rullas i kokos. Förvara kallt.",
+    "image": "apelsin-chokladbollar.jpg",
+    "slug": "apelsin-chokladbollar",
+    "photographer": "David Hallberg Jönsson",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "5650c7d6668017d17e11efe3"
+    },
+    "name": "Vegetarisk Janssons frestelse",
+    "category": "janssons",
+    "info": "Krispig yta, krämig och god inuti, och med soltorkade tomater istället för ansjovis. Låter inte det hur bra som helst?",
+    "srcName": "Amy's piece of cake",
+    "src": "http://amyspieceofcake.blogspot.se/2012/12/vegetarisk-janssons-frestelse.html",
+    "ingredients": "1 gul lök, skalad och skuren i tunna skivor\n10 cm purjolök, ursköljd och skuren i bitar\n1 msk olja\n8-10 medelstora potatisar, skalade och skurna i stavar\n10-12 soltorkade tomater, klippta i bitar\n1 msk kapris (och lite spad om man så önskar)\n3 dl sojagrädde\n1 msk ströbröd\nsvartpeppar\nsalt",
+    "text": "Sätt ugnen på 200 grader. Fräs löken mjuk i lite olja/smör i en stekpanna. Smörj en ugnssäker form. Lägg i ett lager potatis, därefter stekt lök, purjolök, soltorkad tomat, kapris, salt, svartpeppar och sedan resten av potatisen. Häll på grädde och mjölk. Strö över ströbrödet och toppa gärna med några klickar smör/mjölkfritt margarin.\n\nGrädda i nedre delen av ugnen ca 30-40 minuter. Känn med en sticka så potatisen är klar. Smaklig måltid!",
+    "image": "vegetarisk-janssons-frestelse.jpg",
+    "slug": "vegetarisk-janssons-frestelse",
+    "photographer": "Amy's Piece piece of cake",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "5654499b668017d17e11efe4"
+    },
+    "name": "Griljerad julsk*nka",
+    "category": "skinka",
+    "info": "Det här recpetet använder sig av Astrid och apornas produkt sk*nka, som går att få tag på i många stora matbutiker runt om i landet.",
+    "srcName": "Vegokoll",
+    "src": "http://www.vegokoll.se/recept/griljerad-julsknka",
+    "ingredients": "en tinad Julsk*nka\nskånsk senap\n1 dl ströbröd\n1 tsk salt\n1 tsk svartpeppar\n1 tsk farinsocker\nmjölkfritt margarin",
+    "text": "Sätt ugnen på 200 grader. Skär av en tunn kant längs långsidan av sk*nkan så att den ligger still i ugnsformen. Bred senap över hela sk*nkan. Blanda ströbröd med salt, svartpeppar och farinsocker. Rulla sk*nkan i ströbrödsblandningen. Lägg sk*nkan i en ugnsform. Täck ovansidan med tunna skivor margarin. Ställ sk*nkan i mitten av ugnen. Efter en stund ös margarinet som runnit till botten över sk*nkan. Titta till sk*nkan var femte minut, ös eventuellt ytterligare. När ytan är lagom brun och det doftar julskinka så är den klar. Servera varm eller kall i tunna skivor.",
+    "image": "griljerad-julsknka.jpg",
+    "slug": "griljerad-julsknka",
+    "photographer": "Dominika Dados",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "56544c2f668017d17e11efe5"
+    },
+    "name": "Janssons frestelse med julkryddor",
+    "category": "janssons",
+    "info": "Janssons frestelse är en riktig julklassiker. Ta rätten till nästa nivå med dessa julkryddor, för en gratäng som smakar lika julig som den känns!",
+    "srcName": "Vegokoll",
+    "src": "http://www.vegokoll.se/recept/vegansk-janssons-frestelse-med-julkryddor",
+    "ingredients": "8 medelstora potatisar\n1 gul lök\n2 msk ströbröd\n\n<b>Champinjonfräs:</b>\n6 medelstora färska champinjoner\n1 krm kanel\n1 krm mald kryddpeppar\n2 krm salt\n\n<b>Gräddblandning:</b>\n5 dl havregrädde\n3 krm mald kryddpeppar\n10 hela nejlikor\nca 1½ tsk salt",
+    "text": "Koka upp havregrädden med nejlikor, kryddpeppar och salt. Låt detta dra i ca 15 min. Sila bort nejlikorna. Skala och skär potatisarna i tunna stavar. Skiva champinjonerna och fräs dem med kryddpeppar, kanel och salt. Skiva löken. Blanda sedan potatis, lök och champinjoner i en ugnsfast form. Häll över grädden. Strö över ströbrödet och grädda i 200 grader ca 1 timma.",
+    "image": "janssons-frestelse-med-julkryddor.jpg",
+    "slug": "janssons-frestelse-med-julkryddor",
+    "photographer": "Pekka Koskenvoima",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "565748044074e92b0db9d9dc"
+    },
+    "name": "Vegansk sylta",
+    "category": "sylta",
+    "info": "Sylta är kanske det en minst av allt förväntar sig ska gå att göra veganskt, men det är faktiskt inte alls svårt!",
+    "srcName": "Veganrecept & Galna Upptåg",
+    "src": "http://veganen.blogspot.se/2012/01/vegansk-sylta.html",
+    "ingredients": "3 dl sojabönor (som blötlägges under natten)\n2 lagerblad\n4 påsar vegegel (ett helt paket)\n1 grönsaksbuljong",
+    "text": "Koka sojabönorna, lagerblad och 1,5 liter vatten i 2 timmar under lock. Mal bönorna i en mixer eller köttkvarn. Koka upp grönsaksbuljong och 7 dl vatten och riv eventuellt ner lite av en rödbeta för färgens skull men kan uteslutas, blanda vegegel i 1 dl kallt vatten och häll det i det kokande vattnet och låt koka i någon minut. Häll upp vätskan i en smörjd brödform och lägg ner sojabönsmixet och rör försiktigt, men inte för mycket, låt den svalna i 10-15 minuter. Lägg över plastfolie och låt stå i kylen i några timmar, gärna under natten.",
+    "image": "vegansk-sylta.jpeg",
+    "slug": "vegansk-sylta",
+    "photographer": "Veganrecept & Galna Upptåg",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "5659785b4074e92b0db9d9dd"
+    },
+    "name": "Klassisk inlagd sill",
+    "category": "sill",
+    "info": "Det går att köpa färdig vegetarisk sill, men visst är det mycket roligare att laga själv? Här är ett recept som ger en sill med klassisk smak!",
+    "srcName": "Goodstore",
+    "src": "http://www.goodstore.se/?p=1389",
+    "ingredients": "1 dl ättika\n2 dl socker\n3 dl vatten\n4 lagerblad\n10 kryddpepparkorn\n1/2 dl skivad morot\n1/2 dl hackad purjolök\n1 aubergine",
+    "text": "Skala och skiva 1 aubergine och förväll i ordentligt saltat vatten ca 5 - 10 minuter beroende på vilken konsistens du vill ha. Se till att den inte blir för lös, då löser den upp sig i sin sås.\n\nKoka upp samtliga ingredienser och låt det därefter svalna, lägg i den förvällda auberginen och varva med morot och purjulök.",
+    "image": "klassisk-inlagd-sill.png",
+    "slug": "klassisk-inlagd-sill",
+    "photographer": "Goodstore",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "56597a254074e92b0db9d9de"
+    },
+    "name": "Janssons frestelse med tångcaviar",
+    "category": "janssons",
+    "info": "Många veganer har ätit och förundrats över tångcaviar, men inte lika många vet att det passar perfekt i Janssons frestelse!",
+    "srcName": "Goodstore",
+    "src": "http://www.goodstore.se/?p=1422",
+    "ingredients": "1 burk svart tångcaviar (100g)\n2 st gula lökar\n6 st stora potatisar\n3 dl Oatlys havregrädde\n0,5 dl ströbröd\n2 msk vegetabiliskt margarin\nsalt och peppar efter behag",
+    "text": "Skala löken och skär den i tunna skivor.\nSkala och skär potatisen i  fina strimlor.\nVarva potatis, lök och tångcaviar i smord form.\nHäll på grädden. Strö över ströbröd och lägg på någon klick vegetabiliskt margarin.\nGrädda i 225 grader 45-60 minuter tills potatisen blivit mjuk och fått en ljusbrun färg.",
+    "image": "janssons-frestelse-med-tngcaviar.png",
+    "slug": "janssons-frestelse-med-tngcaviar",
+    "photographer": "Goodstore",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "565c688e4ec2f94363f3391e"
+    },
+    "name": "Seitanköttbullar",
+    "category": "köttbullar",
+    "info": "Sojaprotein eller tofu? Det här receptet blir lika bra med båda, så det är upp till dig att välja! Eller så gör du två satser, en av varje!",
+    "srcName": "Vardagsmatad [PDF]",
+    "src": "http://www.pintomagasin.se/pintojulrecept.pdf",
+    "ingredients": "200 gram fast tofu eller 3 dl blötlagd sojafärs\n3 msk ströbröd\n1 msk ketchup\n1 msk grönsaksfond\n1 msk ljus sojasås\n1,5 dl vetegluten\n1 tsk lökpulver\n1/2 tsk vitpeppar\n1/2 tsk paprikapulver\n1 nypa kryddpeppar",
+    "text": "Detta recept kan göras på antingen sojaprotein eller tofu. Vi brukar oftast använda sojaprotein. Och då föredrar vi att blötlägga lite större bitar och sedan köra de några sekunder i en mixer. Detta skapar lite mer ojämna ”flisor” av sojaproteinet, perfekt för köttbullar.\n\nMixa sojaprotein eller tofu i en hushållsmaskin tills det blir lagom finhackat. Häll över i en bunke och tillsätt ströbröd, ketchup, grönsaksfond och sojasås. Låt smeten stå i 5 minuter tills ströbrödet mjuknat. Verkar smeten för torr, häll i en matsked vatten eller två. Tillsätt kryddorna och smaka av. Var försiktig med kryddpepparn.\n\nHäll i veteglutenet och fördela det i köttbullsmeten med en gaffel lite lätt. Ju längre du rör runt desto mer glutentrådar bildas, och vi vill inte att våra köttbullar skall bli trådiga. Forma bullar av smeten genom att lägga en klutt mitt in handflatan och pressa till, vänd och pressa till några gånger.\n\nOm du vill kan du ångkoka köttbullarna i en ångkokare (vi använder en insats till vår mikrovågsugn) några minuter så att bullarna blir fasta och fina. Om du inte har tillgång till en ångkokare så kan du börja med att steka köttbullarna på låg till medelvärme i en stekpanna. Avsluta med att steka köttbullarna i en klick margarin på hög värme så de får lite färg och fin yta. Testa gärna med en köttbulle så att du får en känsla för hur mycket tid de behöver. Det kan variera efter värme och mängd vätska i smeten i relation till gluten.\n\nTänk på att köttbullarna blir sega av att värmas i ugn eller i mikrovågsugn efter att de stekts. Vill du värma på dem dagen efter tillagning, stek på dem hastigt på hög värme igen.",
+    "image": "seitankttbullar.jpg",
+    "slug": "seitankttbullar",
+    "photographer": "Jesper Nilsson",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "565c69a84ec2f94363f3391f"
+    },
+    "name": "Auberginebollar",
+    "category": "köttbullar",
+    "info": "Aubergine är inte bara bra som sillsubstitut, det blir också riktigt grymma julköttbullar!",
+    "srcName": "Veganrecept & Galna Upptåg [PDF]",
+    "src": "http://www.pintomagasin.se/pintojulrecept.pdf",
+    "ingredients": "2 auberginer\nolivolja\n3 skivor ljust formbröd\n4 msk sojagrädde\n2 pressade vitlöksklyftor\nca 2 msk vetemjöl\nsalt & peppar\nev ströbröd",
+    "text": "Sätt ugnen på 200 grader. Dela upp varje aubergine i två halvor och skär skåror i fruktköttet. Pensla på lite olivolja och sätt in dem i ugnen på en ungsform eller galler i 25-30 minuter. Låt dem svalna lite.\n\nSkrapa ur köttet med en sked och hacka igenom det med en kniv så det blir finfördelat. Pressa eller finhacka vitlöken och skär eller smula i så små bitar det går. Blanda ihop vitlöken, aubergineköttet och brödet. Tillsätt sojagrädde ocn rör ihop. Blanda sedan ner mjölet. Blir smeten för lös och kladdig, ta lite mer. Låt sedan stå och svälla en stund.\n\nForma bollar, gärna med hjälp av en sked. Rulla dem gärna i ströbröd och stek på medelvärme i 4-5 minuter. Det kan vara svårt att få dem fint runda men blir lika goda om man plattar till dem en aning till små puckar.",
+    "image": "auberginebollar.jpg",
+    "slug": "auberginebollar",
+    "photographer": "",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "565c77fff57fc0a05f5d28da"
+    },
+    "name": "Griljerad tofu",
+    "category": "skinka",
+    "info": "Vill du inte krångla till det med något avancerat köttsubstitut? Ingen fara, tofu fungerar hur bra som helst som skinka!",
+    "srcName": "Vegfab [PDF]",
+    "src": "http://www.pintomagasin.se/pintojulrecept.pdf",
+    "ingredients": "500 g marinerad tofu\n2 msk senap\n1 msk sojagrädde\n1 msk socker\n2-3 dl ströbröd",
+    "text": "Lägg tofun på en plåt med bakplåtspapper. Blanda senap, socker, sojagrädde och ½ msk av ströbrödet. Pensla tofun med senapsröran. Pudra på med mer ströbröd.\nGriljera i ugnen, 200 grader i 10-15 minuter. Låt svalna.\nServera med en god senap och äppelmos!",
+    "image": "griljerad-tofu.jpg",
+    "slug": "griljerad-tofu",
+    "photographer": "Hendrik Zeitler",
+    "__v": 0
+} {
+    "_id": {
+        "$oid": "565c782ef57fc0a05f5d28db"
+    },
+    "name": "Senapsportabello",
+    "category": "sill",
+    "info": "Trött på auberginesill? Testa portabello! Denna svamp kan göra vilket recept som helst bättre!",
+    "srcName": "Pinto [PDF]",
+    "src": "http://www.pintomagasin.se/pintojulrecept.pdf",
+    "ingredients": "5-7 portabellosvampar\n1 dl av din favoritsenap\n1/2 dl vinäger\n1/2 dl olja\n1-3 dl havregrädde\n1 röd lök",
+    "text": "Skiva svampen 1 centimeter tjocka skivor och stek lätt i olja. Rör ihop senap, vinäger och olja. Tillsätt grädde beroende på hur stark senapsmak du vill ha.\nRör ner svampen och garnera med grovt hackad rödlök.",
+    "image": "senapsportabello.jpg",
+    "slug": "senapsportabello",
+    "photographer": "Hendrik Zeitler",
+    "__v": 0
+}
