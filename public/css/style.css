@@ -1,0 +1,157 @@
+html, body, #wrapper {
+  height: 100%;
+}
+.subwrapper {
+  min-height: 100%;
+  position: relative;
+}
+a {
+  color: inherit;
+}
+.footer {
+  background: #76C46A;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 1rem;
+  border-radius: 4px 4px 0 0;
+}
+body {
+  background: #FFF;
+}
+.container {
+  background: #FFF;
+  max-width: none;
+  padding-bottom: 20rem;
+}
+.menu {
+  background: #76C46A;
+  margin-bottom: 2rem;
+  padding-top: 1rem;
+  text-align: center;
+}
+.menuitem:hover, .menuitem.active:hover {
+  background: #55AB47;
+  color: inherit;
+}
+.active.menuitem {
+  background: #B6E4AF;
+}
+.menuitem {
+  text-decoration: none;
+  color: inherit;
+  display: inline-block;
+  font-size: 2.2rem;
+  padding: 0.5rem 2.5rem;
+  vertical-align: middle;
+}
+.logo {
+  padding: 0;
+  margin: 1rem 4rem 2rem;
+  font-family: 'Lobster Two', Garamond, serif;
+  font-size: 4rem;
+  vertical-align: middle;
+}
+.logo a, .logo a:hover {
+  text-decoration: none;
+  color: #FFF;
+}
+.foodInfo {
+  margin-top: 1rem;
+}
+.foodInfo a {
+  color: inherit;
+  text-decoration: none;
+}
+.foodInfoBox {
+  min-height: 100%;
+  border: 1px solid #f5f5f5;
+  margin-bottom: 2rem;
+}
+.foodInfoText {
+  padding: 0.5rem;
+}
+.foodInfoBox a {
+  text-decoration: none;
+  color: inherit;
+}
+.foodInfoBox img {
+  height: auto;
+  width: 100%;
+}
+.foodInfoBox h6 {
+  font-weight: bold;
+}
+.instructions {
+  padding-top: 1rem;
+}
+.searchbar {
+  background: transparent url('img/search.png') no-repeat left center scroll;
+  padding-left: 48px !important;
+}
+.recipe-image {
+  margin: 1rem 0;
+  height: auto;
+}
+.title-row {
+  display: inline-block;
+}
+a.show-more {
+  float: right;
+  font-size: 1.8rem;
+  text-decoration: underline;
+}
+
+@media (min-width: 767px) {
+  .three.columns {
+    width: 22%;
+  }
+  .four.columns { 
+    width: 30.6666666667%;
+  }
+  .five.columns {
+    width: 39.3333333333%;
+  }
+  .seven.columns {
+    width: 56.6666666667%; 
+  }
+  .eight.columns { 
+    width: 65.3333333333%; 
+  }
+  .nine.columns { 
+    width: 74.0%;
+  }
+  .columns {
+    margin-left: 4%;
+  }
+  .searchbar {
+    height: 6rem !important;
+    font-size: 3rem;
+  }
+  .menu {
+    padding-top: 0;
+  }
+  .menuitem {
+    font-size: 2.2rem;
+    padding: 1.4rem 4rem;
+  }
+  .logo {
+    display: inline-block;
+    margin: 0 2.5rem;
+  }
+  .menu {
+    width: 80%;
+    margin: 2rem auto;
+    border-radius: 4px;
+    text-align: inherit;
+  }
+  .footer {
+    left: 10%;
+    right: 10%;
+    bottom: 2rem;
+  }
+  .instructions {
+    padding-top: 0;
+  }
+}

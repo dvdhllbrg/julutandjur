@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Seitanskinka",
+    "category": "skinka",
+    "src": "http://www.vegankrubb.se/seitanskinka-en-vegansk-julskinka-av-seitan-vegansk-jul-lucka-24/",
+    "srcName": "Vegankrubb",
+    "ingredients": [
+      "4 delar grovkorning, söt och stark senap",
+      "2 delar favoritsenap",
+      "1 del tomatpuré eller chilisås",
+      "1 del sirap",
+      "salt och peppar",
+      "lite redning på potatismjöl och vatten"
+    ],
+    "text": "Drottningen som ska trona i mitten på alla julbord med någon slags värdighet är julskinkan. Vi väljer att inte se ner på dem som väljer en kålrotsskinka, den har sina fördelar.",
+    "image": "seitanskinka.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Senapssill på aubergine",
+    "category": "sill",
+    "src": "http://www.javligtgott.se/senapssill-pa-aubergine/",
+    "srcName": "Jävligt gott",
+    "ingredients": [
+      "1 stor aubergine",
+      "1 rödlök",
+      "2,5 dl vatten",
+      "1 dl ättiksprit (12 %)",
+      "1,5 dl socker",
+      "5 grovt krossade kryddpepparkorn",
+      "2 lagerblad",
+      "5 kryddnejlikor",
+      "1 dl rapsolja",
+      "3 msk skånsk senap",
+      "2 msk socker",
+      "2 msk rödvinsvinäger (vitvinsvinäger fungerar också!)",
+      "1 dl hackad dill",
+      "vitpeppar",
+      "salt"
+    ],
+    "text": "Dagen innan: Skär auberginen i ca 0,5 cm tjocka skivor. Salta och låt dra i några minuter så att bäskan drar ur. Skölj bort saltet och skär skivorna i ”sillstorlek”, ca 3,5 x 1,5 cm. Koka bitarna i vatten i någon minut så att de blir mjuka. Akta så de inte kokar för mycket och ramlar sönder. Du vill bara att de precis ska börja mjukna. Lägg åt sidan.",
+    "image": "senapssill-pa-aubergine.jpg"
+  }
+]
