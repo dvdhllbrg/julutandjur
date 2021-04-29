@@ -17,7 +17,7 @@ type RecipesByCategory = {
 
 export default function RecipeInfo({ visibleCategoryNames, visibleRecipes }: RecipeInfoProps) {
   const categories: RecipesByCategory = visibleRecipes.reduce((r: RecipesByCategory, v: Recipe) => ((r[v.category] || (r[v.category] = [])).push(v), r), {});
-  const singleCategory = visibleCategoryNames?.length === 1 || true;
+  const singleCategory = visibleCategoryNames.length === 1;
   const recipeInfo: ReactNode[] = [];
   let nrOfBoxes;
   visibleCategoryNames.forEach((categoryName, i) => {
@@ -29,7 +29,7 @@ export default function RecipeInfo({ visibleCategoryNames, visibleRecipes }: Rec
     } else if (typeof window !== 'undefined' && window.innerWidth < 767) {
       nrOfBoxes = 1;
     }
-    recipeInfo.push(<TitleRow key={categoryName} categoryName={categoryName} showMore={!singleCategory && categories[categoryName]?.length || 0 > nrOfBoxes} />);
+    recipeInfo.push(<TitleRow key={categoryName} categoryName={categoryName} showMore={!singleCategory && categories[categoryName]?.length > nrOfBoxes} />);
 
     for (let j = 1; j <= nrOfBoxes; j += 1) {
       const recipe = categories[categoryName][j - 1];
