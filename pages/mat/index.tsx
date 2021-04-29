@@ -14,8 +14,8 @@ export default function Recipes({ recipes }: RecipesProps) {
   const [visibleCategoryNames, setVisibleCategoryNames] = useState(allCategoryNames);
 
   const filter = (sought: string) => {
-    let foundRecipes; let
-      foundCategoryNames;
+    let foundRecipes;
+    let foundCategoryNames;
     if (sought === '') {
       foundRecipes = recipes;
       foundCategoryNames = allCategoryNames;

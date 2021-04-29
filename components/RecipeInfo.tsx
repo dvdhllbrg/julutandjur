@@ -25,7 +25,7 @@ export default function RecipeInfo({ visibleCategoryNames, visibleRecipes }: Rec
     const recipeInfoRows = [];
     nrOfBoxes = Math.min(categories[categoryName].length, 4);
     if (singleCategory) {
-      nrOfBoxes = categories[categoryName].length;
+      nrOfBoxes = categories[categoryName]?.length || 0;
     } else if (typeof window !== 'undefined' && window.innerWidth < 767) {
       nrOfBoxes = 1;
     }
