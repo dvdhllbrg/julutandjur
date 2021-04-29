@@ -1,40 +1,29 @@
 {
-  "name": "jul-utan-djur",
-  "version": "0.0.1",
-  "description": "Inspiring a more ethical and sustainable Swedish Christmas food tradition.",
-  "main": "js/app.js",
+  "name": "nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
   "dependencies": {
-    "apicache": "0.0.12",
-    "body-parser": "^1.14.1",
-    "compression": "^1.6.0",
-    "express": "^5.0.0-alpha.2",
-    "gm": "^1.21.1",
-    "history": "^1.13.0",
-    "mongoose": "^4.2.5",
-    "multer": "^1.1.0",
-    "react": "^0.14.2",
-    "react-dom": "^0.14.2",
-    "react-router": "^1.0.0",
-    "superagent": "^1.4.0",
-    "uglifycss": "0.0.18",
-    "underscore": "^1.8.3"
+    "@types/react": "^17.0.4",
+    "mongodb": "^3.6.6",
+    "next": "10.x",
+    "react": "17.x",
+    "react-dom": "17.x",
+    "typescript": "^4.2.4"
   },
   "devDependencies": {
-    "babel-preset-es2015": "^6.1.4",
-    "babel-preset-react": "^6.1.4",
-    "babelify": "^7.2.0",
-    "browserify": "^12.0.1",
-    "react-tools": "^0.14.0-alpha3",
-    "watchify": "^3.6.0",
-    "envify": "^3.4.0",
-    "uglify-js": "^2.5.0"
-  },
-  "scripts": {
-    "start": "npm run build && pm2 startOrReload julutandjur.js",
-    "build": "npm run build-js && npm run build-css",
-    "build-js": "browserify -t [ babelify --presets [ es2015 react ] ] --extension=.jsx --extension=.js src/app.jsx | uglifyjs --compress -o public/js/bundle.js",
-    "build-css": "uglifycss --ugly-comments src/app.css > public/css/bundle.css",
-    "watch": "watchify -t [ babelify --presets [ es2015 react ] ] --extension=.jsx --extension=.js src/app.jsx -o public/js/bundle.js --debug --verbose"
-  },
-  "author": "David Hallberg Jönsson <d@vidhallberg.se>"
+    "@types/mongodb": "^3.6.12",
+    "@typescript-eslint/eslint-plugin": "^4.22.0",
+    "@typescript-eslint/parser": "^4.22.0",
+    "eslint": "^7.25.0",
+    "eslint-config-airbnb-typescript": "^12.3.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.23.2",
+    "eslint-plugin-react-hooks": "^4.2.0"
+  }
 }
