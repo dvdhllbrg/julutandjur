@@ -21,7 +21,7 @@ export default function RecipeInfoBox({
     <div className="recipeInfoBox three columns">
       <Link href={`/mat/${category}/${slug}/`}>
         <a>
-          <Image alt={`Photograph of ${recipe.name}`} src={`/img/${image}`} width="450" height="300" className="u-max-full-width" />
+          <Image alt={`Photograph of ${name}`} src={`/img/${image}`} width="450" height="300" className="u-max-full-width" />
           <div className="recipeInfoText">
             <h6>{name}</h6>
             <p>{info}</p>
