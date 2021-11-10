@@ -14,6 +14,14 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Head>
         <meta name="description" content="Veganska recept på julmat, för att julen är bäst utan djur!" />
         <link rel="shortcut icon" href="/favicon.ico" />
+        <script
+          async
+          defer
+          data-website-id="755cd7a2-a1c3-4ec7-9ebf-ede8a2e03d03"
+          data-do-not-track="true"
+          data-domains="julutandjur.se"
+          src="https://umami-five-cyan.vercel.app/umami.js"
+        />
       </Head>
       <div className="subwrapper">
         <div className="menu row">
