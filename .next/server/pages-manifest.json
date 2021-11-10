@@ -1,7 +1,11 @@
 {
+  "/404": "pages/404.js",
   "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
   "/": "pages/index.js",
-  "/mat": "pages/mat.js"
+  "/mat/[category]/[recipe]": "pages/mat/[category]/[recipe].js",
+  "/mat/[category]": "pages/mat/[category].js",
+  "/mat": "pages/mat.js",
+  "/om": "pages/om.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js"
 }

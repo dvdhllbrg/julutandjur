@@ -79,7 +79,7 @@ export const getStaticPaths = async () => {
     .limit(40)
     .toArray();
 
-  const paths = [...new Set<string>(recipes.map((r: Recipe) => r.category))].map((category) => ({
+  const paths = [...new Set<string>(recipes.map((r) => r.category))].map((category) => ({
     params:
       {
         category,

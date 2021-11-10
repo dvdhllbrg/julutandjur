@@ -46,7 +46,7 @@ export default function Recipe({ recipe }: RecipeProps) {
               </p>
               <div dangerouslySetInnerHTML={nl2br(recipe.info)} />
             </div>
-            <Image src={`/img/${recipe.image}`} width="900" height="500" className="u-max-full-width five columns recipe-image" />
+            <Image alt={`Photograph of ${recipe.name}`} src={`/img/${recipe.image}`} width="900" height="500" className="u-max-full-width five columns recipe-image" />
             <span className="photographer">
               Foto:
               {' '}
@@ -98,7 +98,7 @@ export const getStaticPaths = async () => {
     .limit(40)
     .toArray();
 
-  const paths = recipes.map((r: RecipeType) => ({
+  const paths = recipes.map((r) => ({
     params:
       {
         category: r.category,

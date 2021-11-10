@@ -1,42 +1,82 @@
 "use strict";
-/*
- * ATTENTION: An "eval-source-map" devtool has been used.
- * This devtool is neither made for production nor for readable output files.
- * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
- * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
- * or disable the default devtool with "devtool: false".
- * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
- */
 (() => {
 var exports = {};
-exports.id = "pages/index";
-exports.ids = ["pages/index"];
+exports.id = 405;
+exports.ids = [405];
 exports.modules = {
 
-/***/ "./pages/index.tsx":
-/*!*************************!*\
-  !*** ./pages/index.tsx ***!
-  \*************************/
+/***/ 5075:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ Home)\n/* harmony export */ });\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-runtime */ \"react/jsx-runtime\");\n/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/head */ \"next/head\");\n/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_1__);\n\n\nfunction Home() {\n    return(/*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {\n        children: [\n            /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)((next_head__WEBPACK_IMPORTED_MODULE_1___default()), {\n                __source: {\n                    fileName: \"/home/david/Code/julutandjur/pages/index.tsx\",\n                    lineNumber: 6,\n                    columnNumber: 7\n                },\n                __self: this,\n                children: /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"title\", {\n                    __source: {\n                        fileName: \"/home/david/Code/julutandjur/pages/index.tsx\",\n                        lineNumber: 7,\n                        columnNumber: 9\n                    },\n                    __self: this,\n                    children: \"Jul utan djur\"\n                })\n            }),\n            /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"div\", {\n                __source: {\n                    fileName: \"/home/david/Code/julutandjur/pages/index.tsx\",\n                    lineNumber: 9,\n                    columnNumber: 7\n                },\n                __self: this,\n                children: [\n                    /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"p\", {\n                        __source: {\n                            fileName: \"/home/david/Code/julutandjur/pages/index.tsx\",\n                            lineNumber: 10,\n                            columnNumber: 9\n                        },\n                        __self: this,\n                        children: [\n                            \"Varje december f\\xe5r hundratusentals djur (\",\n                            /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"a\", {\n                                href: \"http://www.svensktkott.se/aktuellt/nyheter/fakta-om-julskinka/\",\n                                __source: {\n                                    fileName: \"/home/david/Code/julutandjur/pages/index.tsx\",\n                                    lineNumber: 12,\n                                    columnNumber: 11\n                                },\n                                __self: this,\n                                children: \"400 000 grisar bara f\\xf6r julskinkan\"\n                            }),\n                            \") s\\xe4tta livet till, bara f\\xf6r att vi vill s\\xe4tta k\\xf6tt p\\xe5 julbordet. Detta \\xe4r inte bara sorgligt f\\xf6r djuren, utan ocks\\xe5 f\\xf6r milj\\xf6n –\",\n                            ' ',\n                            /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"a\", {\n                                href: \"http://www.livsmedelsverket.se/matvanor-halsa--miljo/miljo/miljosmarta-matval2/kott/\",\n                                __source: {\n                                    fileName: \"/home/david/Code/julutandjur/pages/index.tsx\",\n                                    lineNumber: 17,\n                                    columnNumber: 11\n                                },\n                                __self: this,\n                                children: \"enligt Jordbruksverket st\\xe5r k\\xf6ttproduktionen f\\xf6r n\\xe4stan 15 % av v\\xe4rldens totala utsl\\xe4pp av v\\xe4xthusgaser\"\n                            }),\n                            \".\"\n                        ]\n                    }),\n                    /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"p\", {\n                        __source: {\n                            fileName: \"/home/david/Code/julutandjur/pages/index.tsx\",\n                            lineNumber: 23,\n                            columnNumber: 9\n                        },\n                        __self: this,\n                        children: \"S\\xe5 h\\xe4r beh\\xf6ver det inte vara. Det finns ingenting som s\\xe4ger att vi m\\xe5ste \\xe4ta djur bara f\\xf6r att det \\xe4r jul. Det finns hundratals veganska (fria fr\\xe5n k\\xf6tt, mj\\xf6lk, \\xe4gg och andra animaliska produkter) alternativ som \\xe4r precis lika goda (eller godare!) och som inte kr\\xe4ver n\\xe5got lidande eller d\\xf6d. L\\xe5ter inte det mycket b\\xe4ttre?\"\n                    }),\n                    /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(\"p\", {\n                        __source: {\n                            fileName: \"/home/david/Code/julutandjur/pages/index.tsx\",\n                            lineNumber: 29,\n                            columnNumber: 9\n                        },\n                        __self: this,\n                        children: [\n                            \"Vissa tror att veganer bara \\xe4ter tofu och linser dagarna i \\xe4nda och lider av s\\xe5dan n\\xe4ringsbrist att de faller ihop f\\xf6r minsta vindpust. Det kunde inte vara l\\xe4ngre fr\\xe5n sanningen! Visst finns det n\\xe5gra tofurecept h\\xe4r p\\xe5 sajten (testa ett, du kanske blir f\\xf6rv\\xe5nad!), men det finns en enorm bredd i vegetabiliska livsmedel – ingen risk att du tr\\xf6ttnar! Och n\\xe4ringen?\",\n                            ' ',\n                            /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"a\", {\n                                href: \"http://www.vegokoll.se/naringen\",\n                                __source: {\n                                    fileName: \"/home/david/Code/julutandjur/pages/index.tsx\",\n                                    lineNumber: 35,\n                                    columnNumber: 11\n                                },\n                                __self: this,\n                                children: \"Det r\\xe5der ingen brist p\\xe5 den heller.\"\n                            })\n                        ]\n                    }),\n                    /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx)(\"p\", {\n                        __source: {\n                            fileName: \"/home/david/Code/julutandjur/pages/index.tsx\",\n                            lineNumber: 40,\n                            columnNumber: 9\n                        },\n                        __self: this,\n                        children: \"V\\xe4lj en vegansk jul i \\xe5r! F\\xf6r djurens, milj\\xf6ns och din egen skull.\"\n                    })\n                ]\n            })\n        ]\n    }));\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9wYWdlcy9pbmRleC50c3guanMiLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7O0FBQTRCO0FBRWIsUUFBUSxDQUFDQyxJQUFJLEdBQUcsQ0FBQztJQUM5QixNQUFNOztpRkFFREQsa0RBQUk7Ozs7Ozs7K0ZBQ0ZFLENBQUs7Ozs7Ozs7OEJBQUMsQ0FBYTs7O2tGQUVyQkMsQ0FBRzs7Ozs7Ozs7MEZBQ0RDLENBQUM7Ozs7Ozs7OzRCQUFDLENBRUQ7aUdBQUNDLENBQUM7Z0NBQUNDLElBQUksRUFBQyxDQUFnRTs7Ozs7OzswQ0FBQyxDQUFrQzs7NEJBQUssQ0FJL0c7NEJBQUEsQ0FBRztpR0FDSEQsQ0FBQztnQ0FBQ0MsSUFBSSxFQUFDLENBQXNGOzs7Ozs7OzBDQUFDLENBRy9GOzs0QkFBSSxDQUVOOzs7eUZBQ0NGLENBQUM7Ozs7Ozs7a0NBQUMsQ0FLSDs7MEZBQ0NBLENBQUM7Ozs7Ozs7OzRCQUFDLENBS0Q7NEJBQUMsQ0FBRztpR0FDSEMsQ0FBQztnQ0FBQ0MsSUFBSSxFQUFDLENBQWlDOzs7Ozs7OzBDQUFDLENBRzFDOzs7O3lGQUVERixDQUFDOzs7Ozs7O2tDQUFDLENBQWtFOzs7Ozs7QUFJN0UsQ0FBQyIsInNvdXJjZXMiOlsid2VicGFjazovL25leHRqcy8uL3BhZ2VzL2luZGV4LnRzeD8wN2ZmIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBIZWFkIGZyb20gJ25leHQvaGVhZCc7XG5cbmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEhvbWUoKSB7XG4gIHJldHVybiAoXG4gICAgPD5cbiAgICAgIDxIZWFkPlxuICAgICAgICA8dGl0bGU+SnVsIHV0YW4gZGp1cjwvdGl0bGU+XG4gICAgICA8L0hlYWQ+XG4gICAgICA8ZGl2PlxuICAgICAgICA8cD5cbiAgICAgICAgICBWYXJqZSBkZWNlbWJlciBmw6VyIGh1bmRyYXR1c2VudGFscyBkanVyIChcbiAgICAgICAgICA8YSBocmVmPVwiaHR0cDovL3d3dy5zdmVuc2t0a290dC5zZS9ha3R1ZWxsdC9ueWhldGVyL2Zha3RhLW9tLWp1bHNraW5rYS9cIj40MDAgMDAwIGdyaXNhciBiYXJhIGbDtnIganVsc2tpbmthbjwvYT5cbiAgICAgICAgICApIHPDpHR0YSBsaXZldCB0aWxsLFxuICAgICAgICAgIGJhcmEgZsO2ciBhdHQgdmkgdmlsbCBzw6R0dGEga8O2dHQgcMOlIGp1bGJvcmRldC4gRGV0dGEgw6RyIGludGUgYmFyYSBzb3JnbGlndCBmw7ZyIGRqdXJlbiwgdXRhbiBvY2tzw6VcbiAgICAgICAgICBmw7ZyIG1pbGrDtm4g4oCTXG4gICAgICAgICAgeycgJ31cbiAgICAgICAgICA8YSBocmVmPVwiaHR0cDovL3d3dy5saXZzbWVkZWxzdmVya2V0LnNlL21hdHZhbm9yLWhhbHNhLS1taWxqby9taWxqby9taWxqb3NtYXJ0YS1tYXR2YWwyL2tvdHQvXCI+XG4gICAgICAgICAgICBlbmxpZ3QgSm9yZGJydWtzdmVya2V0IHN0w6VyIGvDtnR0cHJvZHVrdGlvbmVuIGbDtnIgbsOkc3RhbiAxNSAlIGF2IHbDpHJsZGVucyB0b3RhbGEgdXRzbMOkcHBcbiAgICAgICAgICAgIGF2IHbDpHh0aHVzZ2FzZXJcbiAgICAgICAgICA8L2E+XG4gICAgICAgICAgLlxuICAgICAgICA8L3A+XG4gICAgICAgIDxwPlxuICAgICAgICAgIFPDpSBow6RyIGJlaMO2dmVyIGRldCBpbnRlIHZhcmEuIERldCBmaW5ucyBpbmdlbnRpbmcgc29tIHPDpGdlciBhdHQgdmkgbcOlc3RlIMOkdGEgZGp1ciBiYXJhIGbDtnIgYXR0IGRldFxuICAgICAgICAgIMOkciBqdWwuIERldCBmaW5ucyBodW5kcmF0YWxzIHZlZ2Fuc2thIChmcmlhIGZyw6VuIGvDtnR0LCBtasO2bGssIMOkZ2cgb2NoIGFuZHJhIGFuaW1hbGlza2EgcHJvZHVrdGVyKVxuICAgICAgICAgIGFsdGVybmF0aXYgc29tIMOkciBwcmVjaXMgbGlrYSBnb2RhIChlbGxlciBnb2RhcmUhKSBvY2ggc29tIGludGUga3LDpHZlciBuw6Vnb3QgbGlkYW5kZSBlbGxlciBkw7ZkLlxuICAgICAgICAgIEzDpXRlciBpbnRlIGRldCBteWNrZXQgYsOkdHRyZT9cbiAgICAgICAgPC9wPlxuICAgICAgICA8cD5cbiAgICAgICAgICBWaXNzYSB0cm9yIGF0dCB2ZWdhbmVyIGJhcmEgw6R0ZXIgdG9mdSBvY2ggbGluc2VyIGRhZ2FybmEgaSDDpG5kYSBvY2ggbGlkZXIgYXYgc8OlZGFuXG4gICAgICAgICAgbsOkcmluZ3NicmlzdCBhdHQgZGUgZmFsbGVyIGlob3AgZsO2ciBtaW5zdGEgdmluZHB1c3QuIERldCBrdW5kZSBpbnRlIHZhcmEgbMOkbmdyZSBmcsOlbiBzYW5uaW5nZW4hXG4gICAgICAgICAgVmlzc3QgZmlubnMgZGV0IG7DpWdyYSB0b2Z1cmVjZXB0IGjDpHIgcMOlIHNhanRlbiAodGVzdGEgZXR0LCBkdSBrYW5za2UgYmxpciBmw7ZydsOlbmFkISksIG1lbiBkZXQgZmlubnNcbiAgICAgICAgICBlbiBlbm9ybSBicmVkZCBpIHZlZ2V0YWJpbGlza2EgbGl2c21lZGVsIOKAkyBpbmdlbiByaXNrIGF0dCBkdSB0csO2dHRuYXIhIE9jaCBuw6RyaW5nZW4/XG4gICAgICAgICAgeycgJ31cbiAgICAgICAgICA8YSBocmVmPVwiaHR0cDovL3d3dy52ZWdva29sbC5zZS9uYXJpbmdlblwiPlxuICAgICAgICAgICAgRGV0IHLDpWRlclxuICAgICAgICAgICAgaW5nZW4gYnJpc3QgcMOlIGRlbiBoZWxsZXIuXG4gICAgICAgICAgPC9hPlxuICAgICAgICA8L3A+XG4gICAgICAgIDxwPlbDpGxqIGVuIHZlZ2Fuc2sganVsIGkgw6VyISBGw7ZyIGRqdXJlbnMsIG1pbGrDtm5zIG9jaCBkaW4gZWdlbiBza3VsbC48L3A+XG4gICAgICA8L2Rpdj5cbiAgICA8Lz5cbiAgKTtcbn1cbiJdLCJuYW1lcyI6WyJIZWFkIiwiSG9tZSIsInRpdGxlIiwiZGl2IiwicCIsImEiLCJocmVmIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./pages/index.tsx\n");
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ Home)
+/* harmony export */ });
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(997);
+/* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(968);
+/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_1__);
+
+
+function Home() {
+    return(/*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.Fragment, {
+        children: [
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx((next_head__WEBPACK_IMPORTED_MODULE_1___default()), {
+                children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("title", {
+                    children: "Jul utan djur"
+                })
+            }),
+            /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("div", {
+                children: [
+                    /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
+                        children: [
+                            "Varje december f\xe5r hundratusentals djur (",
+                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
+                                href: "http://www.svensktkott.se/aktuellt/nyheter/fakta-om-julskinka/",
+                                children: "400 000 grisar bara f\xf6r julskinkan"
+                            }),
+                            ") s\xe4tta livet till, bara f\xf6r att vi vill s\xe4tta k\xf6tt p\xe5 julbordet. Detta \xe4r inte bara sorgligt f\xf6r djuren, utan ocks\xe5 f\xf6r milj\xf6n –",
+                            ' ',
+                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
+                                href: "http://www.livsmedelsverket.se/matvanor-halsa--miljo/miljo/miljosmarta-matval2/kott/",
+                                children: "enligt Jordbruksverket st\xe5r k\xf6ttproduktionen f\xf6r n\xe4stan 15 % av v\xe4rldens totala utsl\xe4pp av v\xe4xthusgaser"
+                            }),
+                            "."
+                        ]
+                    }),
+                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
+                        children: "S\xe5 h\xe4r beh\xf6ver det inte vara. Det finns ingenting som s\xe4ger att vi m\xe5ste \xe4ta djur bara f\xf6r att det \xe4r jul. Det finns hundratals veganska (fria fr\xe5n k\xf6tt, mj\xf6lk, \xe4gg och andra animaliska produkter) alternativ som \xe4r precis lika goda (eller godare!) och som inte kr\xe4ver n\xe5got lidande eller d\xf6d. L\xe5ter inte det mycket b\xe4ttre?"
+                    }),
+                    /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
+                        children: [
+                            "Vissa tror att veganer bara \xe4ter tofu och linser dagarna i \xe4nda och lider av s\xe5dan n\xe4ringsbrist att de faller ihop f\xf6r minsta vindpust. Det kunde inte vara l\xe4ngre fr\xe5n sanningen! Visst finns det n\xe5gra tofurecept h\xe4r p\xe5 sajten (testa ett, du kanske blir f\xf6rv\xe5nad!), men det finns en enorm bredd i vegetabiliska livsmedel – ingen risk att du tr\xf6ttnar! Och n\xe4ringen?",
+                            ' ',
+                            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
+                                href: "http://www.vegokoll.se/naringen",
+                                children: "Det r\xe5der ingen brist p\xe5 den heller."
+                            })
+                        ]
+                    }),
+                    /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("p", {
+                        children: "V\xe4lj en vegansk jul i \xe5r! F\xf6r djurens, milj\xf6ns och din egen skull."
+                    })
+                ]
+            })
+        ]
+    }));
+};
+
 
 /***/ }),
 
-/***/ "next/head":
-/*!****************************!*\
-  !*** external "next/head" ***!
-  \****************************/
+/***/ 968:
 /***/ ((module) => {
 
 module.exports = require("next/head");
 
 /***/ }),
 
-/***/ "react/jsx-runtime":
-/*!************************************!*\
-  !*** external "react/jsx-runtime" ***!
-  \************************************/
+/***/ 997:
 /***/ ((module) => {
 
 module.exports = require("react/jsx-runtime");
@@ -50,7 +90,7 @@ module.exports = require("react/jsx-runtime");
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = (__webpack_exec__("./pages/index.tsx"));
+var __webpack_exports__ = (__webpack_exec__(5075));
 module.exports = __webpack_exports__;
 
 })();
