@@ -1,11 +1,11 @@
-import { Db, MongoClient, MongoClientOptions } from 'mongodb';
+import { Db, MongoClient, MongoClientOptions } from "mongodb";
 
 declare global {
   namespace NodeJS {
     interface Global {
       mongo: {
-        conn: { client: MongoClient; db: Db; } | null;
-        promise: Promise<{ client: MongoClient; db: Db; }> | null;
+        conn: { client: MongoClient; db: Db } | null;
+        promise: Promise<{ client: MongoClient; db: Db }> | null;
       };
     }
   }
@@ -14,13 +14,13 @@ const { MONGODB_URI, MONGODB_DB } = process.env;
 
 if (!MONGODB_URI) {
   throw new Error(
-    'Please define the MONGODB_URI environment variable inside .env.local',
+    "Please define the MONGODB_URI environment variable inside .env.local"
   );
 }
 
 if (!MONGODB_DB) {
   throw new Error(
-    'Please define the MONGODB_DB environment variable inside .env.local',
+    "Please define the MONGODB_DB environment variable inside .env.local"
   );
 }
 
@@ -29,10 +29,13 @@ if (!MONGODB_DB) {
  * in development. This prevents connections growing exponentially
  * during API Route usage.
  */
+//@ts-ignore
 let cached = global.mongo;
 
 if (!cached) {
+  //@ts-ignore
   global.mongo = { conn: null, promise: null };
+  //@ts-ignore
   cached = global.mongo;
 }
 

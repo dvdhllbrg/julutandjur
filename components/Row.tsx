@@ -1,13 +1,13 @@
-import { ReactNode } from 'react';
+import { ReactNode } from "react";
 
 type RowProps = {
-  key: string | number;
+  myKey: string | number;
   recipeInfoBoxes: ReactNode;
 };
 
-export default function Row({ key, recipeInfoBoxes }: RowProps) {
+export default function Row({ myKey, recipeInfoBoxes }: RowProps) {
   return (
-    <div key={key} className="row">
+    <div key={myKey} className="row">
       {recipeInfoBoxes}
     </div>
   );

@@ -1,5 +1,5 @@
-import Link from 'next/link';
-import Image from 'next/image';
+import Link from "next/link";
+import Image from "next/image";
 
 export type Recipe = {
   category: string;
@@ -15,13 +15,23 @@ export type Recipe = {
 };
 
 export default function RecipeInfoBox({
-  category, slug, image, name, info,
+  category,
+  slug,
+  image,
+  name,
+  info,
 }: Partial<Recipe>) {
   return (
     <div className="recipeInfoBox three columns">
       <Link href={`/mat/${category}/${slug}/`}>
         <a>
-          <Image alt={`Photograph of ${name}`} src={`/img/${image}`} width="450" height="300" className="u-max-full-width" />
+          <Image
+            alt={`Photograph of ${name}`}
+            src={`/img/${image}`}
+            width="450"
+            height="300"
+            className="u-max-full-width"
+          />
           <div className="recipeInfoText">
             <h6>{name}</h6>
             <p>{info}</p>
