@@ -1,11 +1,11 @@
 /* eslint-disable react/jsx-props-no-spreading */
-import Head from "next/head";
-import { useRouter } from "next/router";
 import type { AppProps } from "next/app";
+import Head from "next/head";
 import Link from "next/link";
+import { useRouter } from "next/router";
 import Script from "next/script";
-import "../styles/globals.css";
 import Footer from "../components/Footer";
+import "../styles/globals.css";
 
 function MyApp({ Component, pageProps }: AppProps) {
   const { pathname } = useRouter();
@@ -21,36 +21,33 @@ function MyApp({ Component, pageProps }: AppProps) {
       </Head>
       <Script
         strategy="lazyOnload"
-        data-website-id="755cd7a2-a1c3-4ec7-9ebf-ede8a2e03d03"
+        data-website-id="0bdb76c8-c180-4488-9187-13c199d35a4c"
         data-do-not-track="true"
         data-domains="julutandjur.se"
-        src="https://umami-five-cyan.vercel.app/umami.js"
+        src="https://umami.davidhallberg.dev/script.js"
       />
       <div className="subwrapper">
         <div className="menu row">
           <h1 className="logo">
-            <Link href="/">
-              Jul utan djur
-            </Link>
+            <Link href="/">Jul utan djur</Link>
           </h1>
-          <Link href="/" className={`menuitem${pathname === "/" ? " active" : ""}`}>
-            
-              Hem
-            
+          <Link
+            href="/"
+            className={`menuitem${pathname === "/" ? " active" : ""}`}
+          >
+            Hem
           </Link>
           <Link
             href="/mat"
-            className={`menuitem${
-              pathname.includes("/mat") ? " active" : ""
-            }`}>
-            
-              Mat
-            
+            className={`menuitem${pathname.includes("/mat") ? " active" : ""}`}
+          >
+            Mat
           </Link>
-          <Link href="/om" className={`menuitem${pathname === "/om" ? " active" : ""}`}>
-            
-              Om
-            
+          <Link
+            href="/om"
+            className={`menuitem${pathname === "/om" ? " active" : ""}`}
+          >
+            Om
           </Link>
         </div>
         <div className="container">
