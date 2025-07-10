@@ -12,12 +12,12 @@ export default function TitleRow({ categoryName, showMore }: TitleRowProps) {
     <div className="row">
       <h4 className="title-row" key={categoryName}>
         <Link href={`/mat/${categoryName}/`}>
-          <a>{capitalize(categoryName)}</a>
+          {capitalize(categoryName)}
         </Link>
       </h4>
       {showMore ? (
-        <Link href={`/mat/${categoryName}/`}>
-          <a className="show-more">Fler&nbsp;»</a>
+        <Link href={`/mat/${categoryName}/`} className="show-more">
+          Fler&nbsp;»
         </Link>
       ) : null}
     </div>

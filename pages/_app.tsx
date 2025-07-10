@@ -30,27 +30,27 @@ function MyApp({ Component, pageProps }: AppProps) {
         <div className="menu row">
           <h1 className="logo">
             <Link href="/">
-              <a>Jul utan djur</a>
+              Jul utan djur
             </Link>
           </h1>
-          <Link href="/">
-            <a className={`menuitem${pathname === "/" ? " active" : ""}`}>
+          <Link href="/" className={`menuitem${pathname === "/" ? " active" : ""}`}>
+            
               Hem
-            </a>
+            
           </Link>
-          <Link href="/mat">
-            <a
-              className={`menuitem${
-                pathname.includes("/mat") ? " active" : ""
-              }`}
-            >
+          <Link
+            href="/mat"
+            className={`menuitem${
+              pathname.includes("/mat") ? " active" : ""
+            }`}>
+            
               Mat
-            </a>
+            
           </Link>
-          <Link href="/om">
-            <a className={`menuitem${pathname === "/om" ? " active" : ""}`}>
+          <Link href="/om" className={`menuitem${pathname === "/om" ? " active" : ""}`}>
+            
               Om
-            </a>
+            
           </Link>
         </div>
         <div className="container">

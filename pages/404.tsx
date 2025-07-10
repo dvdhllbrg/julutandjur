@@ -12,7 +12,7 @@ export default function NotFound() {
         <p>
           Kanske var det
           {' '}
-          <Link href="/mat/janssons"><a>Janssons frestelse</a></Link>
+          <Link href="/mat/janssons">Janssons frestelse</Link>
           {' '}
           du var sugen på?
         </p>

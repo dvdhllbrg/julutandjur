@@ -47,12 +47,12 @@ export default function CategoryRecipes({ recipes }: CategoryRecipesProps) {
         />
         <div>
           <Link href="/mat/">
-            <a>Mat</a>
+            Mat
           </Link>
           <span>
             &nbsp;&gt;&nbsp;
             <Link href={`/mat/${category}/`}>
-              <a>{capitalize(category as string)}</a>
+              {capitalize(category as string)}
             </Link>
           </span>
         </div>

@@ -24,18 +24,18 @@ export default function Recipe({ recipe }: RecipeProps) {
       <div>
         <div>
           <Link href="/mat/">
-            <a>Mat</a>
+            Mat
           </Link>
           <span>
             &nbsp;&gt;&nbsp;
             <Link href={`/mat/${recipe.category}/`}>
-              <a>{capitalize(recipe.category)}</a>
+              {capitalize(recipe.category)}
             </Link>
           </span>
           <span>
             &nbsp;&gt;&nbsp;
             <Link href={`/mat/${recipe.category}/${recipe.slug}/`}>
-              <a>{recipe.name}</a>
+              {recipe.name}
             </Link>
           </span>
         </div>
