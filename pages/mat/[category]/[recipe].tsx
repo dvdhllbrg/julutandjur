@@ -3,7 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { GetStaticProps } from "next";
 import { Recipe as RecipeType } from "../../../components/RecipeInfoBox";
-import connectToDatabase from "../../../util/mongodb";
+import recipes from '../../../recipes.json';
 
 type RecipeProps = {
   recipe: RecipeType;
@@ -74,10 +74,7 @@ export default function Recipe({ recipe }: RecipeProps) {
 }
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
-  const { db } = await connectToDatabase();
-  const recipe = await db
-    .collection("recipes")
-    .findOne({ slug: params?.recipe }, { projection: { _id: 0 } });
+  const recipe = recipes.find((r: RecipeType) => r.slug === params?.recipe);
 
   if (!recipe) {
     return {
@@ -93,14 +90,6 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
 };
 
 export const getStaticPaths = async () => {
-  const { db } = await connectToDatabase();
-  const recipes = await db
-    .collection("recipes")
-    .find({})
-    .project({ _id: 0 })
-    .limit(40)
-    .toArray();
-
   const paths = recipes.map((r: RecipeType) => ({
     params: {
       category: r.category,

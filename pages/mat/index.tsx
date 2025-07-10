@@ -1,8 +1,8 @@
 import { useState } from 'react';
 import Head from 'next/head';
 import RecipeInfo from '../../components/RecipeInfo';
-import connectToDatabase from '../../util/mongodb';
 import { Recipe } from '../../components/RecipeInfoBox';
+import recipes from '../../recipes.json';
 
 type RecipesProps = {
   recipes: Recipe[];
@@ -44,13 +44,6 @@ export default function Recipes({ recipes }: RecipesProps) {
 }
 
 export const getStaticProps = async () => {
-  const { db } = await connectToDatabase();
-  const recipes = await db
-    .collection('recipes')
-    .find({})
-    .project({ _id: 0 })
-    .limit(40)
-    .toArray();
   return {
     props: {
       recipes,

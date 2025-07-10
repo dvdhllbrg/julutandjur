@@ -4,8 +4,8 @@ import { useRouter } from "next/router";
 import Link from "next/link";
 import { GetStaticProps } from "next";
 import RecipeInfo from "../../../components/RecipeInfo";
-import connectToDatabase from "../../../util/mongodb";
 import { Recipe } from "../../../components/RecipeInfoBox";
+import recipes from '../../../recipes.json';
 
 type CategoryRecipesProps = {
   recipes: Recipe[];
@@ -66,29 +66,15 @@ export default function CategoryRecipes({ recipes }: CategoryRecipesProps) {
 }
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
-  const { db } = await connectToDatabase();
-  const recipes = await db
-    .collection("recipes")
-    .find({ category: params?.category })
-    .project({ _id: 0 })
-    .limit(40)
-    .toArray();
+  const filteredRecipes = recipes.filter((r: Recipe) => r.category === params?.category);
   return {
     props: {
-      recipes,
+      recipes: filteredRecipes,
     },
   };
 };
 
 export const getStaticPaths = async () => {
-  const { db } = await connectToDatabase();
-  const recipes = await db
-    .collection("recipes")
-    .find({})
-    .project({ _id: 0 })
-    .limit(40)
-    .toArray();
-
   const paths = [
     ...new Set<string>(recipes.map((r: Recipe) => r.category)),
   ].map((category) => ({
