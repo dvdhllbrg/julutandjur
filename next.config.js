@@ -6,4 +6,8 @@ module.exports = {
   experimental: {
     runtime: "experimental-edge",
   },
+   images: {
+    loader: 'custom',
+    loaderFile: './loader.js',
+  },
 };
