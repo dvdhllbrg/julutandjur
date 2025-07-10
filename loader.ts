@@ -10,9 +10,9 @@ export default function myImageLoader({
   const isLocal = !src.startsWith("http");
   const query = new URLSearchParams();
 
-  const imageOptimizationApi = "images.julutandjur.se";
+  const imageOptimizationApi = "https://images.julutandjur.se";
   // Your NextJS application URL
-  const baseUrl = "julutandjur.se";
+  const baseUrl = "https://julutandjur.se";
 
   const fullSrc = `${baseUrl}${src}`;
 
